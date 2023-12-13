@@ -1,0 +1,14 @@
+C:\Users\Sevgi\source\repos\Links\Links\bin\Debug\net6.0\Links.exe
+C:\Users\Sevgi\source\repos\Links\Links\bin\Debug\net6.0\Links.deps.json
+C:\Users\Sevgi\source\repos\Links\Links\bin\Debug\net6.0\Links.runtimeconfig.json
+C:\Users\Sevgi\source\repos\Links\Links\bin\Debug\net6.0\Links.dll
+C:\Users\Sevgi\source\repos\Links\Links\bin\Debug\net6.0\Links.pdb
+C:\Users\Sevgi\source\repos\Links\Links\obj\Debug\net6.0\Links.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevgi\source\repos\Links\Links\obj\Debug\net6.0\Links.AssemblyInfoInputs.cache
+C:\Users\Sevgi\source\repos\Links\Links\obj\Debug\net6.0\Links.AssemblyInfo.cs
+C:\Users\Sevgi\source\repos\Links\Links\obj\Debug\net6.0\Links.csproj.CoreCompileInputs.cache
+C:\Users\Sevgi\source\repos\Links\Links\obj\Debug\net6.0\Links.dll
+C:\Users\Sevgi\source\repos\Links\Links\obj\Debug\net6.0\refint\Links.dll
+C:\Users\Sevgi\source\repos\Links\Links\obj\Debug\net6.0\Links.pdb
+C:\Users\Sevgi\source\repos\Links\Links\obj\Debug\net6.0\Links.genruntimeconfig.cache
+C:\Users\Sevgi\source\repos\Links\Links\obj\Debug\net6.0\ref\Links.dll
